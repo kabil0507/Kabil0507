@@ -31,9 +31,17 @@ Here are some of my highlighted projects:
   A responsive personal portfolio built using HTML + Tailwind CSS.  
   🔗 *[View Repository](https://github.com/kabil0507/Personal-portfolio)*
 
-- **Java Banking System (OOP Project)**  
+- **Java Student Grading System (OOP Project)**  
   Console-based Java project using OOP concepts & file handling.  
-  🔗 *[View Repository](https://github.com/kabil0507/Java-banking-system)*
+  🔗 *[View Repository](https://github.com/kabil0507/OOP-project-simple)*
+
+  - **Travel guide Website**  
+  A responsive Travelguide Website built using HTML + CSS + Javascript.  
+  🔗 *[View Repository](https://github.com/kabil0507/Travellie)*
+
+  - **Travel guide Website**  
+  A responsive Travelguide Website built using HTML + CSS + Javascript.  
+  🔗 *[View Repository](https://github.com/kabil0507/Travellie)*
 
 
 ---
