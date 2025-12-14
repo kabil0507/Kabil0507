@@ -35,11 +35,7 @@ Here are some of my highlighted projects:
   Console-based Java project using OOP concepts & file handling.  
   🔗 *[View Repository](https://github.com/kabil0507/OOP-project-simple)*
 
-  - **Travel guide Website**  
-  A responsive Travelguide Website built using HTML + CSS + Javascript.  
-  🔗 *[View Repository](https://github.com/kabil0507/Travellie)*
-
-  - **Travel guide Website**  
+- **Travel guide Website**  
   A responsive Travelguide Website built using HTML + CSS + Javascript.  
   🔗 *[View Repository](https://github.com/kabil0507/Travellie)*
 
