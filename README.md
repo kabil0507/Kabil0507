@@ -17,7 +17,7 @@
 HTML • CSS • Tailwind CSS • JavaScript
 
 **Backend:**  
-Java (OOP, File Handling)
+Java (OOP, File Handling) • php
 
 **Other Tools:**  
 Git • GitHub • VS Code
