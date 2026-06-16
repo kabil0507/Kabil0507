@@ -42,13 +42,30 @@ Here are some of my highlighted projects:
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabil0507&show_icons=true&theme=default" alt="kabil0507" />
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,html,css" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabil0507&layout=compact" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabil0507&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kabil0507&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabil0507&layout=compact&langs_count=6&hide=C%2B%2B&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
