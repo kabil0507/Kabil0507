@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack
 **Frontend:**  
-HTML • CSS • Tailwind CSS • JavaScript
+HTML • CSS • Tailwind CSS • JavaScript • React
 
 **Backend:**  
 Java (OOP, File Handling) • php
@@ -38,7 +38,14 @@ Here are some of my highlighted projects:
 - **Travel guide Website**  
   A responsive Travelguide Website built using HTML + CSS + Javascript.  
   🔗 *[View Repository](https://github.com/kabil0507/Travellie)*
+  
+- **AccessRide Platform (Frontend)**  
+  Smart ride booking platform frontend built using React.  
+  🔗 *[View Repository](https://github.com/quintusjonath-jemy/AccessrideFrontend)*
 
+- **AccessRide Platform (Backend)**  
+  Backend API for AccessRide system (authentication, booking, driver & admin logic). Built using PHP + MySQL.  
+  🔗 *[View Repository](https://github.com/quintusjonath-jemy/AccessrideBackend)*
 
 ---
 
